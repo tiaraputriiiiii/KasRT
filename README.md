@@ -12,16 +12,16 @@ Aplikasi laporan keuangan kas RT
 Aplikasi kas RT menggunakan parsing JSON dari API spreadsheet dengan tujuan untuk mempermudah pengelolaan keuangan di tingkat RT. Dengan menggunakan API spreadsheet, aplikasi dapat mengakses data secara real-time langsung dari spreadsheet yang ada, sehingga memastikan bahwa informasi yang diperoleh selalu terkini. Selain itu, dengan memanfaatkan parsing JSON, aplikasi dapat secara otomatis memproses data yang diambil dari spreadsheet tersebut, seperti melakukan penghitungan saldo, pembuatan laporan, atau visualisasi data tanpa perlu campur tangan manual. Pendekatan ini juga memungkinkan integrasi dengan aplikasi lain yang membutuhkan data keuangan RT, seperti aplikasi pembukuan atau analisis keuangan. Dengan menyimpan data dalam spreadsheet dan mengaksesnya melalui API, pemeliharaan data menjadi lebih mudah karena tim pengelola dapat memperbarui atau mengubah data langsung di spreadsheet, dan perubahan tersebut akan secara otomatis tercermin dalam aplikasi yang menggunakan API spreadsheet tersebut. Solusi ini juga memberikan skalabilitas, memungkinkan aplikasi untuk berkembang seiring dengan kebutuhan tanpa memerlukan perubahan yang signifikan dalam infrastruktur atau arsitektur aplikasi itu sendiri. Dengan demikian, aplikasi kas RT yang menggunakan parsing JSON dari API spreadsheet dapat memberikan manfaat yang signifikan dalam pengelolaan keuangan RT dengan lebih efisien dan efektif.
 
 Tampilan: 
-a. Foto warga
-b. Nama pertama
-c. Nama Belakang
-d. Email
-e. Alamat rumah
-f. Jumlah iuran bulanan warga
-g. Total iuran individu warga
-h. Total iuran warga pada akhir rekap iuran Bulanan
-i. Pengeluaran iuran dari hasil iuran warga
-j. Pemanfaatan dari iuran warga untuk apa saja
+- Foto warga
+- Nama pertama
+- Nama Belakang
+- Email
+- Alamat rumah
+- Jumlah iuran bulanan warga
+- Total iuran individu warga
+- Total iuran warga pada akhir rekap iuran Bulanan
+- Pengeluaran iuran dari hasil iuran warga
+- Pemanfaatan dari iuran warga untuk apa saja
 
 Langkah-langkah Praktikum:
 
