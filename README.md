@@ -1,10 +1,12 @@
 ## Parsing JSON Android Studio
 
-Anggota :
+### Anggota Kelompok <br>
 
-1. Darmanto               (312210423)
-2. Syifa Aurellia Rahma   (312210009)
-3. Tiara Putri            (312210064)
+| Nama                      | NIM       | Kelas     | Mata Kuliah          |
+| ------------------------- | --------- | --------- | -------------------- |
+| Darmanto                  | 312210423 | TI.22.A.1 | Pemrograman Mobile 2 |
+| Syifa Aurellia Rahma      | 312210009 | TI.22.A.1 | Pemrograman Mobile 2 |
+| Tiara Putri               | 312210064 | TI.22.A.1 | Pemrograman Mobile 2 |
 
 
 Aplikasi laporan keuangan kas RT
