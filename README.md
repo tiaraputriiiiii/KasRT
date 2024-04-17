@@ -24,7 +24,7 @@ Langkah-langkah Praktikum:
 
 Build Gradle
 ```
-implementation("androidx.recyclerview:recyclerview:1.3.2")
+    implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation("com.github.bumptech.glide:glide:4.11.0")
     implementation("com.loopj.android:android-async-http:1.4.9")
     implementation("com.google.code.gson:gson:2.8.9")
