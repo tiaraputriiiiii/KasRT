@@ -6,9 +6,6 @@ Anggota :
 2. Syifa Aurellia Rahma   (312210009)
 3. Tiara Putri            (312210064)
 
-Dokumentasi :
-1. YouTube
-2. Pdf
 
 Aplikasi laporan keuangan kas RT
 
@@ -24,3 +21,21 @@ Langkah-langkah Praktikum:
 - Parsing Data JSON: Implementasikan logika parsing JSON untuk mengambil data dari respons API.
 - Tampilkan Data: Tampilkan data yang diperoleh dari API ke dalam antarmuka pengguna aplikasi Android sesuai dengan rincian yang diminta.
 - Uji Aplikasi: Lakukan pengujian menyeluruh terhadap aplikasi Anda untuk memastikan bahwa semua fitur berjalan dengan baik dan data ditampilkan dengan benar.
+
+Build Gradle
+```
+implementation("androidx.recyclerview:recyclerview:1.3.2")
+    implementation("com.github.bumptech.glide:glide:4.11.0")
+    implementation("com.loopj.android:android-async-http:1.4.9")
+    implementation("com.google.code.gson:gson:2.8.9")
+    implementation("com.squareup.retrofit2:retrofit:2.6.4")
+    implementation("com.squareup.retrofit2:converter-gson:2.6.4")
+    implementation("com.squareup.okhttp3:logging-interceptor:3.8.0")
+    debugImplementation("com.github.chuckerteam.chucker:library:3.3.0")
+```
+
+Dokumentasi :
+1. YouTube
+2. Pdf
+
+# Terima kasih
