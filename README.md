@@ -49,7 +49,7 @@ Build Gradle
 ```
 
 Dokumentasi :
-1. YouTube : https://youtu.be/BL24r-VZ_ME?feature=shared
+1. YouTube : https://youtu.be/BL24r-VZ_ME?si=ruaAH_g3GpfaEEnm
 2. Pdf
 
 # Terima kasih
