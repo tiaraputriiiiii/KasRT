@@ -50,6 +50,6 @@ Build Gradle
 
 Dokumentasi :
 1. YouTube : https://youtu.be/BL24r-VZ_ME?si=ruaAH_g3GpfaEEnm
-2. Pdf
+2. Pdf : https://drive.google.com/file/d/1gZugv1Mym0GRwhxF18s-5tSaSGu5xbtu/view?usp=sharing
 
 # Terima kasih
